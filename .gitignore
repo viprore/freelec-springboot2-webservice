@@ -1,7 +1,3 @@
 # Project exclude paths
 /.gradle/
 .idea
-
-# fst
-# in master branch
-# in test branch
